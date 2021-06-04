@@ -224,6 +224,16 @@ textarea{
     display: block;
     margin: 5% auto 0 auto;
 }
+.go-back{
+    border: none;
+    background: var(--c1);
+    color: var(--c5);
+    padding: .5rem;
+    font-size: 1.5rem;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 5% 40%;
+}
 /*FOOTER*/
 footer{
     margin-top: 5%;
